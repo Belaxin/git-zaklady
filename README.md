@@ -7,3 +7,6 @@ Ja som Tomas.
 
 ## Pozdrav
 Pozdravuje SLOVAKIA-ENTITI
+
+## Pozdrav
+Ahoj od Lukasa!
